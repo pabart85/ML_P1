@@ -1,0 +1,1 @@
+Text file created to test Git, clone and commit
